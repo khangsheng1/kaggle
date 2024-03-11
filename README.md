@@ -2,6 +2,8 @@
 
 Welcome to the "kaggle-notebooks" repository! This repository contains a collection of Jupyter Notebooks detailing data analysis from datasets found on Kaggle.com. Each folder within this repository focuses on a specific dataset and provides insights derived from data analysis.
 
+This repository is created purely for fun!
+
 ## Folders
 
 ### Global-Superstore-Analysis
