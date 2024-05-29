@@ -20,7 +20,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 # Project Structure
 data/: Directory containing the dataset (not included in this repository, please download from Kaggle).
+
 notebooks/: Jupyter notebooks with exploratory data analysis and model training.
+
 scripts/: Python scripts for data preprocessing, model training, and evaluation.
 
 # License
