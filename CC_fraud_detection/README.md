@@ -23,8 +23,6 @@ data/: Directory containing the dataset (not included in this repository, please
 
 notebooks/: Jupyter notebooks with exploratory data analysis and model training.
 
-scripts/: Python scripts for data preprocessing, model training, and evaluation.
-
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
